@@ -299,9 +299,9 @@ external_links:
 imagemagick:
   enabled: false # enables responsive images for your site (recomended, see https://github.com/alshedivat/al-folio/issues/537)
   widths:
-    - 4800
-    - 8000
-    - 14000
+    - 480
+    - 800
+    - 1400
   input_directories:
     - assets/img/
   input_formats:
