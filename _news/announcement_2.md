@@ -1,11 +1,16 @@
 ---
 layout: post
-title: A long announcement with details
-date: 2015-11-07 16:11:00-0400
-inline: false
+# title: A long announcement with details
+date: 2021-04-07 16:11:00-0400
+inline: true
 ---
 
-Announcements and news can be much longer than just quick inline posts. In fact, they can have all the features available for the standard blog posts. See below.
+I gave a [talk](https://www.bilibili.com/video/BV1mA411V7iQ?spm_id_from=333.999.0.0) at RIS Symposium Series, IMT-2030.
+
+<!-- I gave a [talk](https://www.bilibili.com/video/BV1mA411V7iQ?spm_id_from=333.999.0.0) entitled "[Channel estimation and passive beamforming for reconfigurable intelligent surface: an overhead perspective](https://github.com/chang-cai/chang-cai.github.io/blob/main/Slides_IMT2030.pdf)" at RIS Symposium Series, IMT-2030. -->
+
+
+<!-- Announcements and news can be much longer than just quick inline posts. In fact, they can have all the features available for the standard blog posts. See below.
 
 ***
 
@@ -28,4 +33,4 @@ Pug heirloom High Life vinyl swag, single-origin coffee four dollar toast taxide
 > We do not grow absolutely, chronologically. We grow sometimes in one dimension, and not in another, unevenly. We grow partially. We are relative. We are mature in one realm, childish in another.
 > —Anais Nin
 
-Fap aliqua qui, scenester pug Echo Park polaroid irony shabby chic ex cardigan church-key Odd Future accusamus. Blog stumptown sartorial squid, gastropub duis aesthetic Truffaut vero. Pinterest tilde twee, odio mumblecore jean shorts lumbersexual.
+Fap aliqua qui, scenester pug Echo Park polaroid irony shabby chic ex cardigan church-key Odd Future accusamus. Blog stumptown sartorial squid, gastropub duis aesthetic Truffaut vero. Pinterest tilde twee, odio mumblecore jean shorts lumbersexual. -->
