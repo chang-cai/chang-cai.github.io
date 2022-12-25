@@ -16,6 +16,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
+Hi there!
 I am currently a second-year Ph.D. student at the Department of Information Engineering, The Chinese University of Hong Kong (CUHK), supervised by Prof. [Angela Yingjun Zhang](https://staff.ie.cuhk.edu.hk/~yjzhang/). Before that, I received the B.Eng. degree from Yingcai Honors College, University of Electronic Science and Technology of China (UESTC) in 2021. I also work closely with Prof. [Xiaojun Yuan](https://scholar.google.com.hk/citations?user=o6W_m00AAAAJ&hl=en) during my postgraduate and undergraduate studies.
 
 My research interests lie in the next-generation wireless communication technologies, including but not limited to reconfigurable intelligent surface (RIS) assisted communications, semantic/task-oriented communication, and wireless edge intelligence.
