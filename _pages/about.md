@@ -18,10 +18,7 @@ social: true  # includes social icons at the bottom of the page
 
 I am currently a second-year Ph.D. student at the Department of Information Engineering, The Chinese University of Hong Kong (CUHK), supervised by Prof. [Angela Yingjun Zhang](https://staff.ie.cuhk.edu.hk/~yjzhang/). Before that, I received the B.Eng. degree from Yingcai Honors College, University of Electronic Science and Technology of China (UESTC) in 2021. I also work closely with Prof. [Xiaojun Yuan](https://scholar.google.com.hk/citations?user=o6W_m00AAAAJ&hl=en) during my postgraduate and undergraduate studies.
 
-My research interests lie in the next-generation wireless communication technologies, including but not limited to:
-- Reconfigurable Intelligent Surface Assisted Communications;
-- Semantic/Task-Oriented Communication;
-- Wireless Edge Intelligence.
+My research interests lie in the next-generation wireless communication technologies, including but not limited to reconfigurable intelligent surface (RIS) assisted communications, semantic/task-oriented communication, and wireless edge intelligence.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
