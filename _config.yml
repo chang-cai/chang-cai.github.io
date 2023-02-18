@@ -5,7 +5,7 @@
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Chang
 middle_name: 
-last_name: CAI
+last_name: Cai
 email: cc021@ie.cuhk.edu.hk
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Chang Cai's Homepage.
@@ -164,7 +164,16 @@ collections:
     permalink: /projects/:path/
 
 news_scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-news_limit: 5 # leave blank to include all the news in the `_news` folder
+news_limit: 10 # leave blank to include all the news in the `_news` folder
+
+pubs:
+  defaults:
+    layout: post
+  output: true
+  permalink: /pubs/:path/
+
+pubs_scrollable: true # adds a vertical scroll bar if there are more than 3 pubs items
+pubs_limit: 10 # leave blank to include all the pubs in the `_pubs` folder
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
@@ -250,7 +259,7 @@ display_tags: ['formatting', 'images', 'links', 'math', 'code'] # this tags will
 scholar:
 
   last_name: [Cai]
-  first_name: [Chang, C.]
+  first_name: [Chang]
 
   style: apa
   locale: en

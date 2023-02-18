@@ -1,7 +1,8 @@
 ---
 layout: post
-date: 2022-10-15 07:59:00-0400
+date: 2023-01-19 07:01:00-0400
 inline: true
 ---
 
-<!-- I was appointed the Managing Editor of [IEEE Open Journal of the Communications Society](https://www.comsoc.org/publications/journals/ieee-ojcoms). -->
+Our paper "[RIS partitioning based scalable beamforming design for large-scale MIMO: Asymptotic analysis and optimization](https://ieeexplore.ieee.org/abstract/document/10032238/)" is accepted by IEEE TWC.
+The research findings in this paper are included in the [White Paper](http://www.risalliance.com/en/riswp2023.html) of RIS, released by the RISTA!

@@ -30,12 +30,6 @@ layout: default
               alt=page.profile.image
               width="150%" -%}
 
-              <img 
-              src="../assets/img/10.jpg"
-              class="img-fluid z-depth-1 rounded"
-              style="text-align: center; width: 100%"
-              />
-
             {% endif -%}
           </div>
           {%- endif %}
@@ -47,7 +41,7 @@ layout: default
           Ph.D. Student <br />
           Department of Information Engineering <br />
           The Chinese University of Hong Kong <br />
-          Office: 826A, SHB, CUHK
+          Office: 826A, Ho Sin-Hang Engineering Bldg., CUHK
 
           {%- if page.social %}
           <!-- Social -->
@@ -66,9 +60,9 @@ layout: default
           <!-- News -->
           {%- include news.html %}
           {%- endif %}
-          {% if page.selected_papers -%}
-            <!-- Selected papers -->
-            {%- include selected_papers.html %}
+          {% if page.pubs -%}
+          <!-- Selected papers -->
+          {%- include pubs.html %}
           {%- endif %}
         </article>
 
