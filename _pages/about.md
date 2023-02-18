@@ -1,6 +1,6 @@
 ---
 layout: about
-title: About
+title: Chang Cai
 permalink: /
 # subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
