@@ -5,7 +5,7 @@ date: 2021-04-07 16:11:00-0400
 inline: true
 ---
 
-I gave a [talk](https://www.bilibili.com/video/BV1mA411V7iQ?spm_id_from=333.999.0.0) at RIS Symposium Series, IMT-2030.
+<!-- I gave a [talk](https://www.bilibili.com/video/BV1mA411V7iQ?spm_id_from=333.999.0.0) at RIS Symposium Series, IMT-2030. -->
 
 <!-- I gave a [talk](https://www.bilibili.com/video/BV1mA411V7iQ?spm_id_from=333.999.0.0) entitled "[Channel estimation and passive beamforming for reconfigurable intelligent surface: an overhead perspective](https://github.com/chang-cai/chang-cai.github.io/blob/main/Slides_IMT2030.pdf)" at RIS Symposium Series, IMT-2030. -->
 
