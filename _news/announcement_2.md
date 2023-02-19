@@ -7,7 +7,7 @@ inline: true
 
 <!-- I gave a [talk](https://www.bilibili.com/video/BV1mA411V7iQ?spm_id_from=333.999.0.0) at RIS Symposium Series, IMT-2030. -->
 
-I gave a talk entitled "[Channel estimation and passive beamforming for reconfigurable intelligent surface: an overhead perspective](https://www.bilibili.com/video/BV1mA411V7iQ?spm_id_from=333.999.0.0)" at RIS Symposium Series, IMT-2030.
+I gave a talk entitled "[Channel estimation and passive beamforming for reconfigurable intelligent surface: An overhead perspective](https://www.bilibili.com/video/BV1mA411V7iQ?spm_id_from=333.999.0.0)" at RIS Symposium Series, IMT-2030.
 
 <!-- (https://github.com/chang-cai/chang-cai.github.io/blob/main/Slides_IMT2030.pdf) -->
 
