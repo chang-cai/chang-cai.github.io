@@ -20,7 +20,7 @@ social: true  # includes social icons at the bottom of the page
  <!-- <br > -->
 
 I am currently a second-year Ph.D. student at the Department of Information Engineering, The Chinese University of Hong Kong, supervised by Prof. [Angela Yingjun Zhang](https://staff.ie.cuhk.edu.hk/~yjzhang/). Before that, I received the B.Eng. degree from Yingcai Honors College, University of Electronic Science and Technology of China in 2021. 
-I work closely with Prof. [Xiaojun Yuan](https://scholar.google.com.hk/citations?user=o6W_m00AAAAJ&hl=en) during my postgraduate and undergraduate studies.
+I work closely with Prof. [Xiaojun Yuan](https://scholar.google.com.hk/citations?user=o6W_m00AAAAJ&hl=en) during my undergraduate and postgraduate studies.
 
 <!-- , supervised by Prof. [Xiaojun Yuan](https://scholar.google.com.hk/citations?user=o6W_m00AAAAJ&hl=en). -->
 
