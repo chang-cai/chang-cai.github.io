@@ -6,7 +6,7 @@ permalink: /
 
 profile:
   align: left
-  image: changcai_profile.jpg
+  image: homepage-2.jpg
   image_circular: false # crops the image to make it circular
   address: >
     <p></p>
@@ -19,16 +19,18 @@ social: true  # includes social icons at the bottom of the page
  
  <!-- <br > -->
 
-I am currently a second-year Ph.D. student at the Department of Information Engineering, The Chinese University of Hong Kong, supervised by Prof. [Angela Yingjun Zhang](https://staff.ie.cuhk.edu.hk/~yjzhang/). Before that, I received the B.Eng. degree from Yingcai Honors College, University of Electronic Science and Technology of China in 2021. 
+I am currently a second-year Ph.D. student at the Department of Information Engineering, The Chinese University of Hong Kong, supervised by Prof. [Angela Yingjun Zhang](https://staff.ie.cuhk.edu.hk/~yjzhang/). Before that, I received the B.Eng. degree from the Yingcai Honors College, University of Electronic Science and Technology of China in 2021. 
 I work closely with Prof. [Xiaojun Yuan](https://scholar.google.com.hk/citations?user=o6W_m00AAAAJ&hl=en) during my undergraduate and postgraduate studies.
 
 <!-- , supervised by Prof. [Xiaojun Yuan](https://scholar.google.com.hk/citations?user=o6W_m00AAAAJ&hl=en). -->
 
 <!-- I also work closely with Prof. [Xiaojun Yuan](https://scholar.google.com.hk/citations?user=o6W_m00AAAAJ&hl=en) during my postgraduate and undergraduate studies. -->
 
-My research interests lie in the next-generation wireless communication technologies, including but not limited to reconfigurable intelligent surface (RIS) assisted communications, semantic/task-oriented communication, and wireless edge intelligence.
+My research interests lie in the next-generation wireless communication technologies, including but not limited to reconfigurable intelligent surface (RIS) assisted communications, semantic/task-oriented communications, and wireless edge intelligence.
 
-Since 2022, I have been serving as the Managing Editor of the [IEEE Open Journal of the Communications Society](https://www.comsoc.org/publications/journals/ieee-ojcoms). I am also helping to run the WeChat Account [@IEEE_OJCOMS](https://mp.weixin.qq.com/s/aY6VfkoohUiArpe72GSCuw). Thanks for following!
+Since 2022, I have been serving as the Managing Editor of the [IEEE Open Journal of the Communications Society (OJ-COMS)](https://www.comsoc.org/publications/journals/ieee-ojcoms).
+
+<!-- I am also helping to run the WeChat Account [@IEEE_OJCOMS](https://mp.weixin.qq.com/s/aY6VfkoohUiArpe72GSCuw). Thanks for following! -->
 
 <!-- , assisting the Editor-in-Chief in editorial services.  -->
 
