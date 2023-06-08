@@ -28,7 +28,12 @@ I work closely with Prof. [Xiaojun Yuan](https://scholar.google.com.hk/citations
 
 My research interests lie in the next-generation wireless communication technologies, including but not limited to reconfigurable intelligent surface (RIS) assisted communications, semantic/task-oriented communications, and wireless edge intelligence.
 
-Since 2022, I have been serving as the Managing Editor of the [IEEE Open Journal of the Communications Society (OJ-COMS)](https://www.comsoc.org/publications/journals/ieee-ojcoms).
+Since 2022, I have been serving as the Managing Editor of the [IEEE Open Journal of the Communications Society (OJ-COMS)](https://www.comsoc.org/publications/journals/ieee-ojcoms). IEEE OJ-COMS is the Gold Open Access Journal of IEEE ComSoc. It started to operate in Fall 2019, and has been already accepted for Scopus.
+<!-- , which is the Gold Open Access Journal of IEEE ComSoc. -->
+
+<!-- . IEEE OJ-COMS is the Gold Open Access Journal of IEEE ComSoc. It started to operate in Fall 2019, and has been already accepted for Scopus. -->
+
+<!-- IEEE OJ-COMS offers a rapid review cycle for high quality articles covering all aspects of communications and networking. -->
 
 <!-- I am also helping to run the WeChat Account [@IEEE_OJCOMS](https://mp.weixin.qq.com/s/aY6VfkoohUiArpe72GSCuw). Thanks for following! -->
 
