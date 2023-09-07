@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2022-08-15 07:08:00-0400
+date: 2023-09-19 07:09:00-0400
 inline: true
 ---
 
-One paper is accepted by IEEE GLOBECOM 2022.
+New manuscript on the synergistic alignment of learning and communication objectives in task-oriented communications: "[Multi-device task-oriented communication via maximal coding rate reduction](https://arxiv.org/pdf/2309.02888.pdf)".

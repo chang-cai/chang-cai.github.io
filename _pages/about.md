@@ -19,14 +19,14 @@ social: true  # includes social icons at the bottom of the page
  
  <!-- <br > -->
 
-I am currently a second-year Ph.D. student at the Department of Information Engineering, The Chinese University of Hong Kong, supervised by Prof. [Angela Yingjun Zhang](https://staff.ie.cuhk.edu.hk/~yjzhang/). Before that, I received the B.Eng. degree from the Yingcai Honors College, University of Electronic Science and Technology of China in 2021. 
+I am currently a third-year Ph.D. student at the Department of Information Engineering, The Chinese University of Hong Kong, supervised by Prof. [Angela Yingjun Zhang](https://staff.ie.cuhk.edu.hk/~yjzhang/). Before that, I received the B.Eng. degree from the Yingcai Honors College, University of Electronic Science and Technology of China in 2021. 
 I work closely with Prof. [Xiaojun Yuan](https://scholar.google.com.hk/citations?user=o6W_m00AAAAJ&hl=en) during my undergraduate and postgraduate studies.
 
 <!-- , supervised by Prof. [Xiaojun Yuan](https://scholar.google.com.hk/citations?user=o6W_m00AAAAJ&hl=en). -->
 
 <!-- I also work closely with Prof. [Xiaojun Yuan](https://scholar.google.com.hk/citations?user=o6W_m00AAAAJ&hl=en) during my postgraduate and undergraduate studies. -->
 
-My research interests lie in the next-generation wireless communication technologies, including but not limited to reconfigurable intelligent surface (RIS) assisted communications, semantic/task-oriented communications, and wireless edge intelligence.
+My research interests lie in the next-generation wireless communication technologies, including but not limited to semantic/task-oriented communications, wireless edge intelligence, and reconfigurable intelligent surface (RIS) assisted communications.
 
 Since 2022, I have been serving as the Managing Editor of the [IEEE Open Journal of the Communications Society (OJ-COMS)](https://www.comsoc.org/publications/journals/ieee-ojcoms). IEEE OJ-COMS is the Gold Open Access Journal of IEEE ComSoc. It started to operate in 2019, and received its debut impact factor of 7.9 in 2023!
 <!-- , which is the Gold Open Access Journal of IEEE ComSoc. -->
