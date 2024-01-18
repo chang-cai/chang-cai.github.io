@@ -28,7 +28,8 @@ I work closely with Prof. [Xiaojun Yuan](https://scholar.google.com.hk/citations
 
 My research interests lie in the next-generation wireless communication technologies, including but not limited to semantic/task-oriented communications, wireless edge intelligence, and reconfigurable intelligent surface (RIS) assisted communications.
 
-Since 2022, I have been serving as the Managing Editor of the [IEEE Open Journal of the Communications Society (OJ-COMS)](https://www.comsoc.org/publications/journals/ieee-ojcoms). IEEE OJ-COMS is the Gold Open Access Journal of IEEE ComSoc. It started to operate in 2019, and received its debut impact factor of 7.9 in 2023!
+<!-- Since 2022, I have been serving as the Managing Editor of the [IEEE Open Journal of the Communications Society (OJ-COMS)](https://www.comsoc.org/publications/journals/ieee-ojcoms). IEEE OJ-COMS is the Gold Open Access Journal of IEEE ComSoc. It started to operate in 2019, and received its debut impact factor of 7.9 in 2023! -->
+
 <!-- , which is the Gold Open Access Journal of IEEE ComSoc. -->
 
 <!-- . IEEE OJ-COMS is the Gold Open Access Journal of IEEE ComSoc. It started to operate in Fall 2019, and has been already accepted for Scopus. -->
@@ -38,9 +39,3 @@ Since 2022, I have been serving as the Managing Editor of the [IEEE Open Journal
 <!-- I am also helping to run the WeChat Account [@IEEE_OJCOMS](https://mp.weixin.qq.com/s/aY6VfkoohUiArpe72GSCuw). Thanks for following! -->
 
 <!-- , assisting the Editor-in-Chief in editorial services.  -->
-
-<!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
