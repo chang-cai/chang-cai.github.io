@@ -1,55 +1,50 @@
-# jemdoc: menu{MENU}{index.html}, showsource
-= jemdoc -- light markup
-[http://stanford.edu/~jacobm/ Jacob Mattingley] ([jacobm@stanford.edu])
-
-jemdoc is a light text-based markup language designed for creating 
-websites. It takes a text file written with [example.html jemdoc markup], an
-optional configuration file and an optional menu file, and makes static websites
-that look something like this one, [http://cvxmod.net/ that one] or
-[http://www.stanford.edu/class/ee364a/ another one].
-
-jemdoc was inspired by [http://www.methods.co.nz/asciidoc/ AsciiDoc], which is a
-text document format. AsciiDoc is great, and lots of the ideas from AsciiDoc are
-copied in jemdoc. The main differences are that jemdoc is simpler (you could say
-deliberately feature poor) and has more consistent syntax.
-
-[download.html Download jemdoc.]
+# jemdoc: menu{MENU}{index.html}, nofooter
+== Chang Cai's Homepage
 
 ~~~
-Version +0.7.3+ was released on 2012-11-27 with some small bug fixes.
-See the [revision.html release notes].
+{}{img_left}{imgs/cc_gc23.jpg}{alt text}{}{200px}
+[https://chang-cai.github.io Chang Cai] \n 
+Incoming Research Assistant Professor \n
+Department of Electrical and Electronic Engineering \n 
+The University of Hong Kong \n 
+Hong Kong SAR \n 
+\n
+Email: changcai@hku.hk \n
+\[[https://scholar.google.com/citations?user=iZJFxh4AAAAJ&hl=en Google Scholar]\] | \[[https://www.linkedin.com/in/chang-cai-%E8%94%A1%E7%95%85-2925911a2 Linkedin]\] | \[[https://github.com/chang-cai Github]\] \n
 ~~~
 
-[https://github.com/jem/jemdoc Contribute to jemdoc on github.]
+== About me
+I am an incoming Research Assistant Professor at the Department of Electrical and Electronic Engineering, The University of Hong Kong.
+I received my Ph.D. degree in Information Engineering from The Chinese University of Hong Kong in 2025, supervised by [https://staff.ie.cuhk.edu.hk/~yjzhang/ Prof. Angela Yingjun Zhang].
+Before that, I received my B.Eng. degree from the Yingcai Honors College, University of Electronic Science and Technology of China in 2021, advised by [https://scholar.google.com/citations?user=o6W_m00AAAAJ&hl=en Prof. Xiaojun Yuan].
+My research focuses on signal processing and machine learning for wireless communications, with a particular emphasis on the convergence of model-based algorithms and data-driven learning toward white-box and explainable AI solutions for future wireless networks.
 
-== Goals
-- Simple, consistent syntax.
-- $\mbox{\LaTeX}$ [latex.html equation support].
-- [tables.html Table support].
-- Portability. The (single) jemdoc [http://www.python.org/ Python] file \+
-  single css file \+ your input file {{&rarr;}} html.
-- Based on [http://www.w3.org/Style/CSS/ CSS] so formatting specifics are
-  independent of jemdoc.
-- Production of clean,
-  [http://validator.w3.org/check/referer
-  standards-compliant] [http://www.w3.org/TR/xhtml11/ XHTML 1.1].
-- Minimal bells and whistles, but simple fallback to raw html if required.
 
-== License
-Copyright \C 2007--2012 Jacob Mattingley.
+== News
+- \[09-2025\] Our invited [https://ieeexplore.ieee.org/abstract/document/11207199 position paper] on score-based generative modeling for ISAC performance evaluation is accepted by JCIN.
+- \[07-2025\] I successfully defended my Ph.D. thesis! Heartfelt thanks to my supervisor, [https://staff.ie.cuhk.edu.hk/~yjzhang/ Prof. Angela Yingjun Zhang], and to my committee members for their guidance, encouragement, and unwavering support.
+- \[12-2023\] Honored to be recognized for my contribution as Managing Editor of the IEEE Open Journal of the Communications Society (2022–2023).
 
-jemdoc is free software; you can redistribute it and\/or modify it under the
-terms of the [http://www.gnu.org/licenses/gpl-3.0.html GNU General Public
-License] as published by the Free Software Foundation; either version 3 of the
-License, or (at your option) any later version.
 
-jemdoc is distributed in the hope that it will be useful, but WITHOUT ANY
-WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A
-PARTICULAR PURPOSE. See the [http://www.gnu.org/licenses/gpl-3.0.html GNU
-General Public License] for more details.
+== Selected Publications
+- Score-Based Generative Models
+-- *C. Cai*, X. Yuan, and Y. -J. A. Zhang, "Score-based turbo message passing for plug-and-play compressive image recovery," IEEE International Workshop on Signal Processing and Artificial Intelligence in Wireless Communications (SPAWC), 2025. \[[https://ieeexplore.ieee.org/document/11143463 Paper]\] \[[https://github.com/chang-cai/STMP Code]\]
+-- *C. Cai*, W. Jiang, X. Yuan, and Y. -J. A. Zhang, "Joint activity detection and channel estimation for massive connectivity: Where message passing meets score-based generative priors," 2025. \[[https://arxiv.org/abs/2506.00581 Paper]\] \[[https://github.com/chang-cai/score-massive-connectivity Code]\]
+-- L. Chen, *C. Cai*\*, H. Yang, X. Yuan, and Y. -J. A. Zhang, "Scoring ISAC: Benchmarking integrated sensing and communications via score-based generative modeling," Journal of Communications and Information Networks, Sept. 2025. \[[https://ieeexplore.ieee.org/abstract/document/11207199 Invited paper]\]
+
+- Semantic/Task-Oriented Communications
+-- *C. Cai*, X. Yuan, and Y. -J. A. Zhang, "End-to-end learning for task-oriented semantic communications over MIMO channels: An information-theoretic framework," IEEE Journal on Selected Areas in Communications, vol. 43, no. 4, pp. 1292-1307, April 2025. \[[https://ieeexplore.ieee.org/document/10845817 Paper]\]
+-- *C. Cai*, X. Yuan, and Y. -J. A. Zhang, "Multi-device task-oriented communication via maximal coding rate reduction," IEEE Transactions on Wireless Communications, vol. 23, no. 12, pp. 18096-18110, Dec. 2024. \[[https://ieeexplore.ieee.org/document/10689268 Paper]\] \[[https://github.com/chang-cai/TaskCommMCR2 Code]\]
+
+# == Research Interests 
+# - Statistical Machine Learning, Deep Learning, Point Process, Optimization, Fairness
+# - Data Mining, Information Retrieval, Recommender System 
+# - Computer Vision, Computer Graphics, Natural Language Processing
+
+# == Contact
+# Feel free to drop me an email if you are interested in my research or would like to have a chat. Looking forward to hearing from you!
 
 ~~~
-{}{img_left}{https://jemnz.com/jacobm2.png}{Jacob Mattingley}{120px}{160px}{https://www.baidu.com}{}{raw}
-Tingdi Ren  {{<img src="../imgs/china.svg" height="13px">}} ~~ [../files/CV.pdf Curriculem Vitae(CV)] \n
-His github homepage is ~{{<a href="https://github.com/TingdiRen" target="&lt;u&gt;blank" title="github" style="text-decoration:none;"><img src="../imgs/github.svg" alt="" height="19px"></a>}}.
+{}{raw}
+<a href="https://clustrmaps.com/site/1c4ft"  title="ClustrMaps"><img src="//www.clustrmaps.com/map_v2.png?d=NWizu2yWycK5EqrBPOR0o0dQVhqWyBlfP_IrjRxF6ns&cl=ffffff" width="100" height="auto" /></a>
 ~~~
