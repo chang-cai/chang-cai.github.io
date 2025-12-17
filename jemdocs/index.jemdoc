@@ -29,7 +29,7 @@ My research focuses on signal processing and machine learning for wireless commu
 
 == Selected Publications
 - Score-Based Generative Models
--- *C. Cai*, X. Yuan, and Y. -J. A. Zhang, "Score-based turbo message passing for plug-and-play compressive image recovery," IEEE International Workshop on Signal Processing and Artificial Intelligence in Wireless Communications (SPAWC), 2025. \[[https://ieeexplore.ieee.org/document/11143463 Paper]\] \[[https://github.com/chang-cai/STMP Code]\]
+-- *C. Cai*, H. Jiang, X. Yuan, and Y. -J. A. Zhang, "Score-based turbo message passing for plug-and-play compressive imaging," 2025. \[[https://arxiv.org/abs/2512.14435 Paper]\] \[[https://ieeexplore.ieee.org/document/11143463 Conference]\] \[[https://github.com/chang-cai/STMP Code]\]
 -- *C. Cai*, W. Jiang, X. Yuan, and Y. -J. A. Zhang, "Joint activity detection and channel estimation for massive connectivity: Where message passing meets score-based generative priors," 2025. \[[https://arxiv.org/abs/2506.00581 Paper]\] \[[https://github.com/chang-cai/score-massive-connectivity Code]\]
 -- L. Chen, *C. Cai*\*, H. Yang, X. Yuan, and Y. -J. A. Zhang, "Scoring ISAC: Benchmarking integrated sensing and communications via score-based generative modeling," Journal of Communications and Information Networks, Sept. 2025. \[[https://ieeexplore.ieee.org/abstract/document/11207199 Invited paper]\]
 
