@@ -41,98 +41,98 @@ _gaq.push(['_trackPageview']);
 <td id="layout-content">
 <div id="toptitle">
 <h1>jemdoc &ndash; running jemdoc</h1>
-<div id="subtitle">
-Make sure
-<a href="http://www.python.org/" target=&ldquo;blank&rdquo;>Python</a> is installed, put jemdoc in your path somewhere,
-type in your file, and run
-
+<div id="subtitle">
+Make sure
+<a href="http://www.python.org/" target=&ldquo;blank&rdquo;>Python</a> is installed, put jemdoc in your path somewhere,
+type in your file, and run
+
 </div>
 </div>
 <div class="codeblock">
 <div class="blockcontent"><pre>
 jemdoc index.jemdoc
 </pre></div></div>
-<p>
-This will use a default configuration for the html elements, and create an
-<tt>index.html</tt>.
-
-Even simpler, you can omit the extension, and jemdoc will still
-process the <tt>index.jemdoc</tt> file, as in
+<p>
+This will use a default configuration for the html elements, and create an
+<tt>index.html</tt>.
+
+Even simpler, you can omit the extension, and jemdoc will still
+process the <tt>index.jemdoc</tt> file, as in
 </p>
 <div class="codeblock">
 <div class="blockcontent"><pre>
 jemdoc index
 </pre></div></div>
-<p>
+<p>
 </p>
 <h2>CSS</h2>
-<p>You will need to provide a <a href="http://www.w3.org/Style/CSS/" target=&ldquo;blank&rdquo;>CSS</a> file on your
-server. By default it should be called <tt>jemdoc.css</tt>. Here is an example
-<a href="dist/jemdoc.css" target=&ldquo;blank&rdquo;>jemdoc.css</a> file: download it and place it in the same
-directory as your html files. (Or customize it, or start from scratch!)
-
+<p>You will need to provide a <a href="http://www.w3.org/Style/CSS/" target=&ldquo;blank&rdquo;>CSS</a> file on your
+server. By default it should be called <tt>jemdoc.css</tt>. Here is an example
+<a href="dist/jemdoc.css" target=&ldquo;blank&rdquo;>jemdoc.css</a> file: download it and place it in the same
+directory as your html files. (Or customize it, or start from scratch!)
+
 </p>
 <h2>Change the configuration</h2>
-<p>To choose a different output file, use <tt>-o</tt>:
-
+<p>To choose a different output file, use <tt>-o</tt>:
+
 </p>
 <div class="codeblock">
 <div class="blockcontent"><pre>
 jemdoc -o html/index.html index
 </pre></div></div>
-<p>
-You can specify a different output directory with <tt>-o</tt>:
+<p>
+You can specify a different output directory with <tt>-o</tt>:
 </p>
 <div class="codeblock">
 <div class="blockcontent"><pre>
 jemdoc -o html/ index
 </pre></div></div>
-<p>
-This will instead output to <tt>html/index.html</tt>.
-
-To change the html configuration (<a href="htmlchanges.html" target=&ldquo;blank&rdquo;>details here</a>), use <tt>-c</tt>:
+<p>
+This will instead output to <tt>html/index.html</tt>.
+
+To change the html configuration (<a href="htmlchanges.html" target=&ldquo;blank&rdquo;>details here</a>), use <tt>-c</tt>:
 </p>
 <div class="codeblock">
 <div class="blockcontent"><pre>
 jemdoc -c mysite.conf index
 </pre></div></div>
-<p>
-Command line options may be combined. For example, the following command will
-use <tt>mysite.conf</tt>, reading syntax from <tt>index.jemdoc</tt> and outputting to
-<tt>html/index.html</tt>:
+<p>
+Command line options may be combined. For example, the following command will
+use <tt>mysite.conf</tt>, reading syntax from <tt>index.jemdoc</tt> and outputting to
+<tt>html/index.html</tt>:
 </p>
 <div class="codeblock">
 <div class="blockcontent"><pre>
 jemdoc -c mysite.conf -o html/ index
 </pre></div></div>
-<p>
+<p>
 </p>
 <h2>Other command line options</h2>
-<p>To check which version of jemdoc you are using, run the command
+<p>To check which version of jemdoc you are using, run the command
 </p>
 <div class="codeblock">
 <div class="blockcontent"><pre>
 jemdoc --version
 </pre></div></div>
-<p>
-To get simple command-line help, you can run <tt>jemdoc</tt> without arguments, or
+<p>
+To get simple command-line help, you can run <tt>jemdoc</tt> without arguments, or
 </p>
 <div class="codeblock">
 <div class="blockcontent"><pre>
 jemdoc --help
 </pre></div></div>
-<p>
-To show the html configuration (<a href="htmlchanges.html" target=&ldquo;blank&rdquo;>details here</a>), run
+<p>
+To show the html configuration (<a href="htmlchanges.html" target=&ldquo;blank&rdquo;>details here</a>), run
 </p>
 <div class="codeblock">
 <div class="blockcontent"><pre>
 jemdoc --show-config
 </pre></div></div>
-<p>
+<p>
 </p>
 <div id="footer">
 <div id="footer-text">
-Page generated 2025-12-17 23:44:07 China Standard Time, by <a href="https://github.com/wsshin/jemdoc_mathjax" target="blank">jemdoc+MathJax</a>.
+Page generated 2026-02-02 11:30:13 HKT, by <a href="https://github.com/wsshin/jemdoc_mathjax" target="blank">jemdoc+MathJax</a>.
 </div>
 </div>
 </td>

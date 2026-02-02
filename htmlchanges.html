@@ -41,31 +41,31 @@ _gaq.push(['_trackPageview']);
 <td id="layout-content">
 <div id="toptitle">
 <h1>jemdoc &ndash; html changes</h1>
-<div id="subtitle">
-jemdoc has a built-in default configuration. This configuration includes the
-particular html tags used when producing html. If you wish to adjust the html
-that jemdoc produces, you can provide a configuration file to override the
-built-in defaults.
-
+<div id="subtitle">
+jemdoc has a built-in default configuration. This configuration includes the
+particular html tags used when producing html. If you wish to adjust the html
+that jemdoc produces, you can provide a configuration file to override the
+built-in defaults.
+
 </div>
 </div>
 <h2>Example html change</h2>
-<p>Suppose you wanted to add <a href="http://www.google.com/analytics/" target=&ldquo;blank&rdquo;>Google
-Analytics</a> tracking to your website. That requires adding a short section of
-html before the <tt>&lt;/body&gt;</tt> tag.
-
-First, find out which block needs to be changed by using
-
+<p>Suppose you wanted to add <a href="http://www.google.com/analytics/" target=&ldquo;blank&rdquo;>Google
+Analytics</a> tracking to your website. That requires adding a short section of
+html before the <tt>&lt;/body&gt;</tt> tag.
+
+First, find out which block needs to be changed by using
+
 </p>
 <div class="codeblock">
 <div class="blockcontent"><pre>
 jemdoc --show-config
 </pre></div></div>
-<p>
-This prints the default html configuration. From this, the relevant
-configuration block (the one which includes the <tt>&lt;/body&gt;</tt> tag) has a title
-<tt>[bodyend]</tt>, and looks like
-
+<p>
+This prints the default html configuration. From this, the relevant
+configuration block (the one which includes the <tt>&lt;/body&gt;</tt> tag) has a title
+<tt>[bodyend]</tt>, and looks like
+
 </p>
 <div class="codeblock">
 <div class="blockcontent"><pre>
@@ -73,10 +73,10 @@ configuration block (the one which includes the <tt>&lt;/body&gt;</tt> tag) has 
 &lt;/body&gt;
 &lt;/html&gt;
 </pre></div></div>
-<p>
-Create a new file <tt>mysite.conf</tt>, say, and put a new <tt>[bodyend]</tt> block
-inside it. The new file looks like this:
-
+<p>
+Create a new file <tt>mysite.conf</tt>, say, and put a new <tt>[bodyend]</tt> block
+inside it. The new file looks like this:
+
 </p>
 <div class="codeblock">
 <div class="blockcontent"><pre>
@@ -90,21 +90,21 @@ urchinTracker();
 &lt;/body&gt;
 &lt;/html&gt;
 </pre></div></div>
-<p>
-Include your new configuration file, with the <tt>-c</tt> option (<a href="using.html" target=&ldquo;blank&rdquo;>more
-details here</a>):
+<p>
+Include your new configuration file, with the <tt>-c</tt> option (<a href="using.html" target=&ldquo;blank&rdquo;>more
+details here</a>):
 </p>
 <div class="codeblock">
 <div class="blockcontent"><pre>
 jemdoc -c mysite.conf index.jemdoc
 </pre></div></div>
-<p>
-This will pull in the new <tt>[bodyend]</tt> block from <tt>mysite.conf</tt>, but otherwise
-work as before.
+<p>
+This will pull in the new <tt>[bodyend]</tt> block from <tt>mysite.conf</tt>, but otherwise
+work as before.
 </p>
 <div id="footer">
 <div id="footer-text">
-Page generated 2025-12-17 23:44:07 China Standard Time, by <a href="https://github.com/wsshin/jemdoc_mathjax" target="blank">jemdoc+MathJax</a>.
+Page generated 2026-02-02 11:30:13 HKT, by <a href="https://github.com/wsshin/jemdoc_mathjax" target="blank">jemdoc+MathJax</a>.
 </div>
 </div>
 </td>
