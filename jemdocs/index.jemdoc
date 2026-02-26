@@ -29,9 +29,9 @@ My research focuses on signal processing and machine learning for wireless commu
 
 == Selected Publications
 - Score-Based Generative Models
--- *C. Cai*, H. Jiang, X. Yuan, and Y. -J. A. Zhang, "Score-based turbo message passing for plug-and-play compressive imaging," 2025. \[[https://arxiv.org/abs/2512.14435 Paper]\] \[[https://ieeexplore.ieee.org/document/11143463 Conference]\] \[[https://github.com/chang-cai/STMP Code]\]
--- *C. Cai*, W. Jiang, X. Yuan, and Y. -J. A. Zhang, "Joint activity detection and channel estimation for massive connectivity: Where message passing meets score-based generative priors," IEEE Journal on Selected Areas in Communications, 2026. \[[https://ieeexplore.ieee.org/document/11389767 Paper]\] \[[https://github.com/chang-cai/score-massive-connectivity Code]\]
--- L. Chen, *C. Cai*\*, H. Yang, X. Yuan, and Y. -J. A. Zhang, "Scoring ISAC: Benchmarking integrated sensing and communications via score-based generative modeling," Journal of Communications and Information Networks, Sept. 2025. \[[https://ieeexplore.ieee.org/abstract/document/11207199 Invited paper]\]
+-- *C. Cai*, H. Jiang, X. Yuan, and Y. -J. A. Zhang, "Score-based turbo message passing for plug-and-play compressive imaging," submitted to IEEE Transactions on Signal Processing, 2025. \[[https://arxiv.org/abs/2512.14435 Paper]\] \[[https://ieeexplore.ieee.org/document/11143463 Conference]\] \[[https://github.com/chang-cai/STMP Code]\]
+-- *C. Cai*, W. Jiang, X. Yuan, and Y. -J. A. Zhang, "Joint activity detection and channel estimation for massive connectivity: Where message passing meets score-based generative priors," IEEE Journal on Selected Areas in Communications, vol. 44, pp. 3575-3590, 2026. \[[https://ieeexplore.ieee.org/document/11389767 Paper]\] \[[https://github.com/chang-cai/score-massive-connectivity Code]\]
+-- L. Chen, *C. Cai*\*, H. Yang, X. Yuan, and Y. -J. A. Zhang, "Scoring ISAC: Benchmarking integrated sensing and communications via score-based generative modeling," Journal of Communications and Information Networks, vol. 10, no. 3, pp. 224-245, Sept. 2025. \[[https://ieeexplore.ieee.org/abstract/document/11207199 Invited paper]\]
 
 - Semantic/Task-Oriented Communications
 -- *C. Cai*, X. Yuan, and Y. -J. A. Zhang, "End-to-end learning for task-oriented semantic communications over MIMO channels: An information-theoretic framework," IEEE Journal on Selected Areas in Communications, vol. 43, no. 4, pp. 1292-1307, April 2025. \[[https://ieeexplore.ieee.org/document/10845817 Paper]\]
