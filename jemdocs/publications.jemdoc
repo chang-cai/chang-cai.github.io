@@ -4,7 +4,7 @@
 
 == Submitted/Preprints
 . *C. Cai*, H. Jiang, X. Yuan, and Y. -J. A. Zhang, "Score-based turbo message passing for plug-and-play compressive imaging," major revision in IEEE Transactions on Signal Processing, 2025. \[[https://arxiv.org/abs/2512.14435 Paper]\]
-. Z. Xu, *C. Cai*, S. Wang, and Y. -J. A. Zhang, "Channel collage: Scalable diffusion-based prior learning for ELAA channels," submitted to Asilomar Conference on Signals, Systems, and Computers (ASILOMAR), 2026.
+. *C. Cai*, B. Teng, X. Yuan, and Y. -J. A. Zhang, "Wireless intelligence needs a cerebellum: Score-based foundation models toward real-time physical-layer inference," submitted to IEEE Wireless Communications, 2026.
 . H. Zheng, Z. Wang, M. Cui, *C. Cai*, H. Du, K. Huang, "Multi-SPIN: Multi-access speculative inference for cooperative token generation at the edge," submitted to IEEE Transactions on Wireless Communications, 2026. \[[https://arxiv.org/abs/2606.04581 Paper]\]
 
 == Journals
@@ -19,6 +19,7 @@
 . *C. Cai*, H. Yang, X. Yuan, Y.-J. A. Zhang, and Y. Liu, "Reconfigurable intelligent surface assisted D2D underlay communications: A two-timescale optimization design," Journal of Communications and Information Networks, vol. 5, no. 4, pp. 369-380, Dec. 2020.
 
 == Conferences
+. Z. Xu, *C. Cai*, S. Wang, and Y. -J. A. Zhang, "Channel collage: Scalable diffusion-based prior learning for ELAA channels," Asilomar Conference on Signals, Systems, and Computers (ASILOMAR), 2026.
 . *C. Cai*, W. Jiang, X. Yuan, and Y. -J. A. Zhang, "Joint activity detection and channel estimation for massive connectivity: Where message passing meets score-based diffusion priors," IEEE ICC Workshops, 2026.
 . *C. Cai*, X. Yuan, and Y. -J. A. Zhang, "Score-based turbo message passing for plug-and-play compressive image recovery," IEEE International Workshop on Signal Processing and Artificial Intelligence in Wireless Communications (SPAWC), 2025. \[[https://ieeexplore.ieee.org/document/11143463 Paper]\] \[[https://github.com/chang-cai/STMP Code]\]
 . *C. Cai*, X. Yuan, and Y. -J. A. Zhang, "Deep unfolding based precoding for task-oriented semantic communications over MIMO channels," Asilomar Conference on Signals, Systems, and Computers (ASILOMAR), Pacific Grove, CA, USA, 2024, pp. 383-390.
