@@ -32,7 +32,7 @@ My research focuses on signal processing and machine learning for wireless commu
 
 == Selected Publications
 - Edge LLMs, Speculative Decoding
--- *C. Cai*, and K. Huang, "Multi-access speculative inference: Uplink or downlink?" submitted to IEEE Transactions on Wireless Communications, 2026.
+-- *C. Cai*, and K. Huang, "Multi-access speculative inference: Uplink or downlink?" submitted to IEEE Transactions on Wireless Communications, 2026. \[[https://arxiv.org/abs/2608.29618 Paper]\]
 -- H. Zheng, Z. Wang, M. Cui, *C. Cai*, H. Du, and K. Huang, "Multi-SPIN: Multi-access speculative inference for cooperative token generation at the edge," submitted to IEEE Transactions on Wireless Communications, 2026. \[[https://arxiv.org/abs/2606.04581 Paper]\]
 
 - Score-Based Generative Models, Diffusion Models
